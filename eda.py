@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-df = pd.read_csv("data/student_data.csv")
+df = pd.read_csv("data/tudent_dataset.csv")
 
 # First 5 rows
 print("FIRST 5 ROWS")
